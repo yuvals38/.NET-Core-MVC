@@ -1,0 +1,11 @@
+C:\Users\yuval.s\Downloads\yourComplaint-master\ComplaintDepartment\obj\Debug\netcoreapp2.0\ComplaintDepartment.AssemblyInfoInputs.cache
+C:\Users\yuval.s\Downloads\yourComplaint-master\ComplaintDepartment\obj\Debug\netcoreapp2.0\ComplaintDepartment.AssemblyInfo.cs
+C:\Users\yuval.s\Downloads\yourComplaint-master\ComplaintDepartment\bin\Debug\netcoreapp2.0\appsetings.json
+C:\Users\yuval.s\Downloads\yourComplaint-master\ComplaintDepartment\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\yuval.s\Downloads\yourComplaint-master\ComplaintDepartment\bin\Debug\netcoreapp2.0\ComplaintDepartment.deps.json
+C:\Users\yuval.s\Downloads\yourComplaint-master\ComplaintDepartment\bin\Debug\netcoreapp2.0\ComplaintDepartment.runtimeconfig.json
+C:\Users\yuval.s\Downloads\yourComplaint-master\ComplaintDepartment\bin\Debug\netcoreapp2.0\ComplaintDepartment.runtimeconfig.dev.json
+C:\Users\yuval.s\Downloads\yourComplaint-master\ComplaintDepartment\bin\Debug\netcoreapp2.0\ComplaintDepartment.dll
+C:\Users\yuval.s\Downloads\yourComplaint-master\ComplaintDepartment\bin\Debug\netcoreapp2.0\ComplaintDepartment.pdb
+C:\Users\yuval.s\Downloads\yourComplaint-master\ComplaintDepartment\obj\Debug\netcoreapp2.0\ComplaintDepartment.dll
+C:\Users\yuval.s\Downloads\yourComplaint-master\ComplaintDepartment\obj\Debug\netcoreapp2.0\ComplaintDepartment.pdb
