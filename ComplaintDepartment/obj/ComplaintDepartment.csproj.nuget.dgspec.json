@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yuval.s\\Downloads\\yourComplaint-master\\ComplaintDepartment\\ComplaintDepartment.csproj": {}
+    "C:\\Users\\yuval.s\\GitHub\\.NET-Core\\ComplaintDepartment\\ComplaintDepartment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yuval.s\\Downloads\\yourComplaint-master\\ComplaintDepartment\\ComplaintDepartment.csproj": {
+    "C:\\Users\\yuval.s\\GitHub\\.NET-Core\\ComplaintDepartment\\ComplaintDepartment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yuval.s\\Downloads\\yourComplaint-master\\ComplaintDepartment\\ComplaintDepartment.csproj",
+        "projectUniqueName": "C:\\Users\\yuval.s\\GitHub\\.NET-Core\\ComplaintDepartment\\ComplaintDepartment.csproj",
         "projectName": "ComplaintDepartment",
-        "projectPath": "C:\\Users\\yuval.s\\Downloads\\yourComplaint-master\\ComplaintDepartment\\ComplaintDepartment.csproj",
+        "projectPath": "C:\\Users\\yuval.s\\GitHub\\.NET-Core\\ComplaintDepartment\\ComplaintDepartment.csproj",
         "packagesPath": "C:\\Users\\yuval.s\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yuval.s\\Downloads\\yourComplaint-master\\ComplaintDepartment\\obj\\",
+        "outputPath": "C:\\Users\\yuval.s\\GitHub\\.NET-Core\\ComplaintDepartment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
