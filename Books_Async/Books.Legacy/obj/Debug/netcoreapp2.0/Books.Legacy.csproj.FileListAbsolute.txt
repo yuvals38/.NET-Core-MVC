@@ -1,0 +1,8 @@
+C:\Users\yuval.s\Downloads\AspNetCoreAsyncBestPractices-master\AspNetCoreAsyncBestPractices-master\Books\Books.Legacy\bin\Debug\netcoreapp2.0\Books.Legacy.deps.json
+C:\Users\yuval.s\Downloads\AspNetCoreAsyncBestPractices-master\AspNetCoreAsyncBestPractices-master\Books\Books.Legacy\bin\Debug\netcoreapp2.0\Books.Legacy.dll
+C:\Users\yuval.s\Downloads\AspNetCoreAsyncBestPractices-master\AspNetCoreAsyncBestPractices-master\Books\Books.Legacy\bin\Debug\netcoreapp2.0\Books.Legacy.pdb
+C:\Users\yuval.s\Downloads\AspNetCoreAsyncBestPractices-master\AspNetCoreAsyncBestPractices-master\Books\Books.Legacy\obj\Debug\netcoreapp2.0\Books.Legacy.csprojAssemblyReference.cache
+C:\Users\yuval.s\Downloads\AspNetCoreAsyncBestPractices-master\AspNetCoreAsyncBestPractices-master\Books\Books.Legacy\obj\Debug\netcoreapp2.0\Books.Legacy.AssemblyInfoInputs.cache
+C:\Users\yuval.s\Downloads\AspNetCoreAsyncBestPractices-master\AspNetCoreAsyncBestPractices-master\Books\Books.Legacy\obj\Debug\netcoreapp2.0\Books.Legacy.AssemblyInfo.cs
+C:\Users\yuval.s\Downloads\AspNetCoreAsyncBestPractices-master\AspNetCoreAsyncBestPractices-master\Books\Books.Legacy\obj\Debug\netcoreapp2.0\Books.Legacy.dll
+C:\Users\yuval.s\Downloads\AspNetCoreAsyncBestPractices-master\AspNetCoreAsyncBestPractices-master\Books\Books.Legacy\obj\Debug\netcoreapp2.0\Books.Legacy.pdb
