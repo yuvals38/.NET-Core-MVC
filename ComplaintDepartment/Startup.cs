@@ -17,6 +17,7 @@ namespace ComplaintDepartment
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            //DB
             services.AddDbContext<ComplaintContext>(options =>
                 options.UseSqlite("Data Source=ComplaintDepartment.db"));
             services.AddMvc();
